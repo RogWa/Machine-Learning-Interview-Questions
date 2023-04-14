@@ -3,7 +3,7 @@
 ![alt text](aishwarya.jpg)
 
 
-| Sr No | Name                                                         | Link                                                                  |
+| Sr No | Names                                                         | Links                                                                  |
 | ----- | ------------------------------------------------------------ | --------------------------------------------------------------------- |
 | 1     | ML Interview Questions 1.1                                   |https://medium.com/@dishitaneve/ml-interview-questions-1-1-2c14c4dcdf18|
 | 2     | Most Asked AI/ML Interview Questions in India                |https://medium.com/@springboard_ind/most-asked-ai-ml-interview-questions-in-india-6db723cc7578|
